@@ -15,7 +15,7 @@
 - **4Wheels Auto Collision** - <a href="https://4wheelsautocollision.com" target="_blank">4wheelsautocollision.com</a>
   - A comprehensive platform for an auto collision repair company. Built using React.js with TypeScript for the frontend, Node.js for the backend, and MySQL for the database. The site features a modern UI, service booking system, and dynamic content management.
 
-- **Sri Sai Property** - <a href="https://srisaiproperty.com" target="_blank">srisaiproperty.com</a>
+- **Sri Sai Property** - <a href="https://srisaiproperty.ca" target="_blank">srisaiproperty.ca</a>
   - A real estate platform offering property listings and information. Developed using React.js with TypeScript, Node.js for the backend, and MySQL for the database. The project includes features like property search, detailed property descriptions, and user authentication.
 
 <h3 align="left">Connect with me:</h3>
